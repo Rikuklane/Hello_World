@@ -1,5 +1,5 @@
 public class World {
     public static void main(String[] args) {
-        System.out.println("Friend was here");
+        System.out.println("Friend was really here");
     }
 }
